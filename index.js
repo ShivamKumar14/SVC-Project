@@ -18,7 +18,7 @@ buttons.forEach((button) => {
 });
 
 function computerPlay() {
-  const choices = ["Rock", "Paper", "Scissors"];
+  const choices = ["rock", "paper", "scissors"];
   const randomChoice = Math.floor(Math.random() * choices.length);
   return choices[randomChoice];
 }
