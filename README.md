@@ -1,2 +1,2 @@
 # SVC-Project
-Hello, This project is a simple web based rock paper scissor game. The major objective behind this was to work on a course project of software version cotrol. I have used GIT to track record of this proejct. This will also track changes of the proejct. 
+Hello, This project is a simple web based rock paper scissor game. The major objective behind this was to work on a course project of software version cotrol. I have used GIT to track record of this proejct. This will also track changes of the proejct. Also I have hosted the live website using GitHub Pages. 
